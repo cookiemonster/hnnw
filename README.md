@@ -17,15 +17,15 @@
   <tr>
    <td><strong>Indienende organisaties (inclusief welke regie voert)</strong>
    </td>
-   <td>SSC-ICT Innovatie team(regie)
+   <td>[SSC-ICT Innovatie team](https://ssc-ict-innovatie.nl/#/)
 <p>
-ICTU
+[ICTU](https://ictu.nl/#)
    </td>
   </tr>
   <tr>
    <td><strong>Aansluiting bij NL DIGIbeter</strong>
    </td>
-   <td>NL DIGIbeter Agenda Digitale Overheid: “Toegankelijk, begrijpelijk en voor iedereen” - Iedereen kan bijdragen aan een betere Rijk
+   <td>[NL DIGIbeter Agenda Digitale Overheid](https://www.digitaleoverheid.nl/nldigibeter/): “Toegankelijk, begrijpelijk en voor iedereen” - Iedereen kan bijdragen aan een betere Rijk
    </td>
   </tr>
   <tr>
