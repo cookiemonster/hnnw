@@ -33,11 +33,9 @@
    </td>
    <td>De eigen bijdrage betreffen oa. uren besteed door het SSC-ICT innovatie team voor ontwikkeling van het prototype. 
 <p>
-Bijdrage SSC-ICT: €90.000
-<p>
-Bijdrage BZK: €360.000
-<p>
-Benodigde budget: €450.000
+* Bijdrage SSC-ICT: €90.000
+* Bijdrage BZK: €360.000
+* Benodigde budget: €450.000
    </td>
   </tr>
   <tr>
