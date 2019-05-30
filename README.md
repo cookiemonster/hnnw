@@ -1,20 +1,9 @@
 ## Het Nieuwe² Werken
 
-1. Algemene gegevens
-<table>
-  <tr>
-   <td><strong>Challenge-titel</strong>
-   </td>
-   <td>Het Nieuwe² Werken (HNNW)
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Korte omschrijving challenge</strong>
-   </td>
-   <td>Het aantal vacatures voor ict-gerelateerde functies binnen het rijk neemt toe waar het aanbod krap is. Ook de vervangingsvraag naar ict’ers binnen het rijk is enorm. Tot 2023 is die naar verwachting meer dan 3600 fte. Mogelijk komt hier nog een substantiële uitbreidingsvraag bovenop. Dat blijkt uit de Arbeidsmarktanalyse Rijk 2018-2025. Het Nieuwe² werken is een manier om hierop in te spelen. Het platform maakt het mogelijk om te solliciteren naar opdrachten i.p.v. functies, waardoor de drempel van participatie aan een project/opdracht lager is. In combinatie met scholing die aangeboden wordt, leidt dit allemaal tot meer inclusie van zowel internen als externen. 
-   </td>
-  </tr>
-  <tr>
+## Algemene gegevens
+Challenge-titel | Het Nieuwe² Werken (HNNW)
+Korte omschrijving challenge | Het aantal vacatures voor ict-gerelateerde functies binnen het rijk neemt toe waar het aanbod krap is. Ook de vervangingsvraag naar ict’ers binnen het rijk is enorm. Tot 2023 is die naar verwachting meer dan 3600 fte. Mogelijk komt hier nog een substantiële uitbreidingsvraag bovenop. Dat blijkt uit de Arbeidsmarktanalyse Rijk 2018-2025. Het Nieuwe² werken is een manier om hierop in te spelen. Het platform maakt het mogelijk om te solliciteren naar opdrachten i.p.v. functies, waardoor de drempel van participatie aan een project/opdracht lager is. In combinatie met scholing die aangeboden wordt, leidt dit allemaal tot meer inclusie van zowel internen als externen.
+
    <td><strong>Indienende organisaties (inclusief welke regie voert)</strong>
    </td>
    <td>[SSC-ICT Innovatie team](https://ssc-ict-innovatie.nl/#/)
