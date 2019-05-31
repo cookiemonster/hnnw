@@ -1,7 +1,7 @@
 # Het Nieuwe² Werken
 Uit de [Arbeidsmarktanalyse Rijk 2018-2025](https://www.rijksoverheid.nl/documenten/rapporten/2019/01/31/arbeidsmarktanalyse-rijk-2018-2025) blijkt dat bij de Rijskoverheid een chronisch tekort is aan ICT-personeel. Men ziet als een mogelijk oplossing het “inhuren” van extern personeel.
 
-##Probleemstelling en aanleiding
+## Probleemstelling en aanleiding
 Er is altijd veel kritiek op ICT projecten, vele mensen claimen het beter te kunnen doen en in sommige gevallen is dat ook zo. Dit zijn veelal mensen buiten het team of de afdeling. Projecten missen dan onbewust kansen om de juiste expertise en kennis binnen te halen, opdrachten worden soms toegekend aan ondergeschikte personen voor dat probleem. Dit komt omdat het werk dichtbij wordt verdeeld aan de mensen binnen het team of de afdeling, dat is nou eenmaal de huidige manier van werken. 
 
 Verder kijkend naar de toekomst is ook de impact van technologie op de arbeidsmarkt van het rijk groot, maar niet eenduidig. Er zullen tekorten ontstaan aan bepaalde ict-specialisten, maar ook een overschot aan lastig om te scholen oudere experts. Verder is het moeilijk om voor het schaarse ict-talent op salaris te concurreren met de markt, dus kan voor het rijk externe inhuur doelmatiger en doeltreffender zijn. De drempel voor externe participatie is op dit moment erg hoog.
