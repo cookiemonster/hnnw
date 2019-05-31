@@ -13,10 +13,16 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //...
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    // ...
+    plugins: [
+      EditOnGithubPlugin.create(docBase, docEditBase, title)
+    ]
+  }
+</script>  
+
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+
 </body>
 </html>
