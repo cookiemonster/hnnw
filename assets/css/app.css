@@ -450,10 +450,10 @@ p a, p a:link, p a:visited, p a:active {
 }
 
 #beta #beta-text {
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  margin: 0 50px 0 0;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 600px;
+          flex: 0 0 600px;
+  margin: 0 100px 0 0;
 }
 
 #beta #beta-text p {
@@ -494,12 +494,12 @@ p a, p a:link, p a:visited, p a:active {
 }
 
 #beta #beta-image__wrapper {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-flex: 0;
-      -ms-flex: 0 0 300px;
-          flex: 0 0 300px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
@@ -510,12 +510,7 @@ p a, p a:link, p a:visited, p a:active {
 }
 
 #beta #beta-image__wrapper #beta-image {
-  width: 300px;
-  height: 138px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-image: url(../images/undraw-online-tests.svg);
+  width: 400px;
 }
 
 #features {
