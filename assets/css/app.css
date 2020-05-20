@@ -54,6 +54,14 @@ html, body {
   font-family: 'RoSansRegular', sans-serif;
 }
 
+p a, p a:link, p a:visited, p a:active {
+  color: #cc1414;
+  text-decoration: none;
+  border-bottom: 1px solid #cc1414;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
 #header {
   width: 100%;
   height: 600px;
@@ -76,6 +84,7 @@ html, body {
 #header #header-bg #header-bg__wrapper {
   width: 100%;
   height: 100%;
+  overflow: hidden;
   position: relative;
 }
 
@@ -393,6 +402,43 @@ html, body {
   }
 }
 
+#what {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+#what #what-text {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 600px;
+          flex: 0 0 600px;
+  margin: 0 100px 0 0;
+}
+
+#what #what-image__wrapper {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#what #what-image__wrapper #what-image {
+  width: 500px;
+}
+
 #beta {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -431,13 +477,19 @@ html, body {
   color: #000;
   padding: 15px 20px;
   border-radius: 3px;
+  color: #5c0707;
   text-decoration: none;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   background-color: #fff;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.25);
 }
 
-#beta #beta-text #beta-actions .beta-action .fas {
+#beta #beta-text #beta-actions .beta-action .beta-action__icon-left {
+  margin: 0 10px 0 0;
+}
+
+#beta #beta-text #beta-actions .beta-action .beta-action__icon-right {
   margin: 0 0 0 10px;
 }
 
@@ -558,5 +610,100 @@ html, body {
   height: 300px;
   border-radius: 5px;
   background-color: #fff;
+}
+
+#open-source {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+#open-source #open-source__text {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 600px;
+          flex: 0 0 600px;
+  margin: 0 100px 0 0;
+}
+
+#open-source #open-source__text #open-source-actions {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 -15px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#open-source #open-source__text #open-source-actions .open-source-action {
+  padding: 0 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#open-source #open-source__text #open-source-actions .open-source-action .github-link {
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 500;
+  border-radius: 3px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  text-decoration: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-repeat: repeat;
+  padding: 12px 15px 10px 15px;
+  font-family: 'RoSansBold', sans-serif;
+  background-color: rgba(12, 12, 12, 0.85);
+  background-image: url(../images/asfalt-light.png);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+}
+
+#open-source #open-source__text #open-source-actions .open-source-action .github-link .github-link__icon {
+  margin: 0 10px 0 0;
+}
+
+#open-source #open-source__text #open-source-actions .open-source-action .github-link .github-link__text {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  line-height: 1em;
+}
+
+#open-source #open-source__image-wrapper {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#open-source #open-source__image-wrapper #open-source__image {
+  width: 280px;
 }
 /*# sourceMappingURL=app.css.map */
