@@ -386,12 +386,32 @@ p {
         }
     }
 }
+@media (max-width: 800px) {
+    #content {
+        .content-section__wrapper {
+            padding: 50px 0;
+            .content-section {
+                padding: 0 25px;
+                box-sizing: border-box;
+                .section-title {
+                    font-size: 2.3em;
+                }
+            }
+        }
+    }
+}
 
 #footer {
     padding: 50px 0;
     font-size: .9em;
     text-align: center;
     box-sizing: border-box;
+    background-color: hsl(0, 0%, 98%);
+}
+@media (max-width: 550px) {
+    #footer {
+        padding: 25px 0;
+    }
 }
 
 //

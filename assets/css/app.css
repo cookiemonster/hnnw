@@ -443,12 +443,33 @@ p a, p a:link, p a:visited, p a:active {
   }
 }
 
+@media (max-width: 800px) {
+  #content .content-section__wrapper {
+    padding: 50px 0;
+  }
+  #content .content-section__wrapper .content-section {
+    padding: 0 25px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  #content .content-section__wrapper .content-section .section-title {
+    font-size: 2.3em;
+  }
+}
+
 #footer {
   padding: 50px 0;
   font-size: .9em;
   text-align: center;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  background-color: #fafafa;
+}
+
+@media (max-width: 550px) {
+  #footer {
+    padding: 25px 0;
+  }
 }
 
 @-webkit-keyframes bg {
