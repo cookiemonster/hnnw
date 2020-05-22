@@ -143,6 +143,7 @@ p a, p a:link, p a:visited, p a:active {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  overflow: hidden;
   position: absolute;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -454,6 +455,9 @@ p a, p a:link, p a:visited, p a:active {
   }
   #content .content-section__wrapper .content-section .section-title {
     font-size: 2.3em;
+  }
+  #content .content-section__wrapper .content-section p {
+    font-size: 1em;
   }
 }
 

@@ -147,6 +147,7 @@ p {
         width: 100%;
         height: 150px;
         display: flex;
+        overflow: hidden;
         position: absolute;
         flex-direction: row;
         justify-content: center;
@@ -395,6 +396,9 @@ p {
                 box-sizing: border-box;
                 .section-title {
                     font-size: 2.3em;
+                }
+                p {
+                    font-size: 1em;
                 }
             }
         }
